@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "C:/Python39"
+    ],
+    "python.analysis.extraPaths": [
+        "C:/Python39"
+    ],
+}
